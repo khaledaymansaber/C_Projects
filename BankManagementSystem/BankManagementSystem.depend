@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1726258121 source:e:\c  project\bankmanagementsystem\database.c
+	"database.h"
+
+1726256269 source:e:\c  project\bankmanagementsystem\main.c
+	"database.h"
+
+1726257071 e:\c  project\bankmanagementsystem\database.h
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
